@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/xxsans/fsub-4",
-  "logo": "https://telegra.ph/file/14d0f408cef34a67a1482.jpg",
+  "repository": "https://github.com/putraicipiyey/fsub-4",
+  "logo": "https://telegra.ph/file/23e2aafd9c3e7e69d800f.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
